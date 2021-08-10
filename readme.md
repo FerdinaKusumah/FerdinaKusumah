@@ -1,6 +1,6 @@
 ### Hi there I am Ferdina Kusumah👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ferdinaKusumah)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=narutoxxx)
 [![Linkedin Badge](https://img.shields.io/badge/FerdinaKusumah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ferdina-kusumah-599209100)](https://www.linkedin.com/in/ferdina-kusumah-599209100)
 [![Medium Badge](https://img.shields.io/badge/@ferdina.kusumah-black?style=social&labelColor=black&logo=Medium&link=https://medium.com/@ferdina.kusumah)](https://medium.com/@ferdina.kusumah)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ferdina.kusumah@gmail.com)](mailto:ferdina.kusumah@gmail.com)
@@ -34,7 +34,7 @@
 
 ### Stats
 <a href="#stats" align="center">
-    <img align="center" alt="Ferdina Kusumah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferdinaKusumah&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
+    <img align="center" alt="Ferdina Kusumah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=narutoxxx&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
 </a>
 <br />
 
