@@ -40,7 +40,7 @@
 
 <br />
 <a href="#stats" align="center">
-    <img align="center" alt="Ferdina Kusumah's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=ferdinaKusumah" />
+    <img align="center" alt="Ferdina Kusumah's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=narutoxxx" />
 </a>
 <br />
 
