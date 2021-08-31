@@ -34,13 +34,13 @@
 
 ### Stats
 <a href="#stats" align="center">
-    <img align="center" alt="Ferdina Kusumah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=narutoxxx&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
+    <img align="center" alt="Ferdina Kusumah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FerdinaKusumah&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
 </a>
 <br />
 
 <br />
 <a href="#stats" align="center">
-    <img align="center" alt="Ferdina Kusumah's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=narutoxxx" />
+    <img align="center" alt="Ferdina Kusumah's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=FerdinaKusumah" />
 </a>
 <br />
 
