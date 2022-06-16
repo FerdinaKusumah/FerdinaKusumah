@@ -39,8 +39,7 @@
 <br />
 
 <br />
-<a href="#stats" align="center">
-    <img align="center" alt="Ferdina Kusumah's Top Language" src="[[https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinaKusumah](https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinaKusumah)](https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinaKusumah)" />
+<img align="center" alt="Ferdina Kusumah's Top Language" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinaKusumah)](https://github.com/FerdinaKusumah/github-readme-stats)" />
 </a>
 <br />
 
