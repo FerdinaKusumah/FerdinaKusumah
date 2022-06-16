@@ -12,7 +12,7 @@
 - Coding all day and everyday 🤟.
 - 😄 Pronouns: him/he
 
-![Alt Text](https://media.giphy.com/media/vitWWq2hZaPT2/giphy.gif)
+![Alt Text](https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif)
 
 ### Languages:
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
@@ -39,7 +39,10 @@
 <br />
 
 <br />
-<img align="center" alt="Ferdina Kusumah's Top Language" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinaKusumah)](https://github.com/FerdinaKusumah/github-readme-stats)" />
+<a href="#stats" align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinaKusumah&langs_count=8)](https://github.com/FerdinaKusumah/github-readme-stats)
+
 </a>
 <br />
 
