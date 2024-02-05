@@ -19,7 +19,7 @@
 <img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" />
 <img align="left" alt="PHP" width="30px" src="https://img.icons8.com/officel/16/000000/php-logo.png" />
 <img align="left" alt="Javascript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img align="left" alt="Bash script" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-ytrys&psig=AOvVaw2NZZzWuKHVjaQhwhWOhSJ7&ust=1707203267708000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiMsPTRk4QDFQAAAAAdAAAAABAI" />
+<img align="left" alt="Bash script" width="30px" src="https://icon-library.com/images/bash-icon/bash-icon-5.jpg" />
 <br />
 
 ### Database :
