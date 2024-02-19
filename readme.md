@@ -34,7 +34,7 @@
 
 ### Stats
 <a href="#stats" align="center">
-    <img align="center" alt="Ferdina Kusumah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FerdinaKusumah&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
+    <img align="center" alt="Ferdina Kusumah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FerdinaKusumah&count_private=false&show_icons=true&include_all_commits=true&show_owner=true"/>
 </a>
 <br />
 
