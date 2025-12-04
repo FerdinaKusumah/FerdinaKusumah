@@ -13,21 +13,3 @@
 - 😄 Pronouns: him/he
 
 ![Alt Text](https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif)
-
-### Stats
-<a href="#stats" align="center">
-    <img align="center" alt="Ferdina Kusumah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FerdinaKusumah&count_private=false&show_icons=true&include_all_commits=true&show_owner=true"/>
-</a>
-<br />
-
-<br />
-<a href="#stats" align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinaKusumah&langs_count=8)](https://github.com/FerdinaKusumah/github-readme-stats)
-
-</a>
-<br />
-
-<br />
-
-[![Ferdina's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ferdina_kusumah)](https://github.com/anuraghazra/github-readme-stats)
