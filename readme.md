@@ -1,7 +1,7 @@
 ### Hi, I'm Ferdina Kusumah 👋
 
-Software engineer in Bogor, Indonesia, mostly remote. I write Python, Go and Django,
-and I like small tools that do one job well.
+Backend engineer. Most of my work is in Python, Go and Django. Outside of it, I maintain
+a few small libraries and send fixes to the projects I use.
 
 **Maintaining**
 - [tinydbstorage](https://github.com/FerdinaKusumah/tinydb-storage): Redis and S3 storages for TinyDB that refuse to overwrite each other ([PyPI](https://pypi.org/project/tinydbstorage/))
